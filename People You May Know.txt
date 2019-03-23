@@ -1,0 +1,1 @@
+"People You May Know", a project developed in C++ for suggesting friends by implementing Nearest Neighbor searching in a graph. Locality Sensitive Hashing and various data structures have been implemented for optimization.
